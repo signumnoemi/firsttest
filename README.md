@@ -1,5 +1,5 @@
-# firsttest
-test in how works
+# A voyage from EIC using QDL and Bitzy
+Write-Up and Story Line - how we created this game
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
